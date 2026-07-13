@@ -4,7 +4,7 @@ A hands-on collection of Excel Power Pivot projects demonstrating data modeling,
 
 ---
 
-## 📂 Project Structure
+## 📂 Workbook Structure
 
 ```text
 06_Power_Pivot/
@@ -24,7 +24,7 @@ A hands-on collection of Excel Power Pivot projects demonstrating data modeling,
 
 ---
 
-# 📘 Project 1 — Power Pivot Fundamentals
+# 📘 Workbook 1 — Power Pivot Fundamentals
 
 ### Overview
 
@@ -75,7 +75,7 @@ Relationship Type:
 
 ---
 
-# 📅 Project 2 — Time Intelligence using DAX
+# 📅 Workbook 2 — Time Intelligence using DAX
 
 ### Overview
 
