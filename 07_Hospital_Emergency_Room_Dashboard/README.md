@@ -80,7 +80,7 @@ Users can filter the report by **Year** and **Month** to explore trends and comp
 
 ## 📷 Dashboard Preview
 
-(Dashboard.png)
+<img src="Dashboard.png" width="100%">
 
 ---
 
