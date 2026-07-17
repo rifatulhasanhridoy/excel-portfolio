@@ -5,8 +5,8 @@
 This repository documents my progression through core data analyst skills in Microsoft Excel: cleaning messy data, enforcing data quality, building calculation engines, automating ETL with Power Query, summarizing data with Pivot Tables, modeling relational data with Power Pivot & DAX, and delivering a full interactive dashboard.
 
 📌 **Author:** Rifatul Hasan
-🔗 [LinkedIn](#) · [Portfolio](#) · [Email](#)
-*(replace the links above with your actual profile URLs)*
+🔗 [LinkedIn](www.linkedin.com/in/rifatul-hasan-hridoy-697257276) · [Portfolio]() · [Email](rifatulhasanhridoy@gmail.com)
+
 
 ---
 
